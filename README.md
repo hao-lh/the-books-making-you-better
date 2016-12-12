@@ -49,9 +49,13 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 2014
 * [Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - David Barber, Cambridge University Press, 2012
 
-#### Fundamentals
- * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang 1995
-
+#### Linear Algebra and Matrix Analysis
+* [Linear Algebra, Step by Step (2014,1st)](http://www.academia.edu/5142311/Linear_Algebra_Step_by_Step) - Kuldeep Singh
+* [Introduction to Linear Algebra (2016,5th)](http://math.mit.edu/~gs/linearalgebra/) - Gilbert Strang
+* [Linear Algebra and Its Applications (2015,5th)](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/) - David C. Lay
+* [Linear Algebra Done Right (2015,3rd)](http://linear.axler.net) - Sheldon Axler
+* [Matrix Analysis (2012,2nd)](https://www.amazon.com/Matrix-Analysis-Roger-Horn/dp/0521548233) - Roger A. Horn
+ 
 ## Courses
 
 #### Computer Vision
