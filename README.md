@@ -33,6 +33,11 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Computer Vision for Visual Effects](http://cvfxbook.com/) - Richard J. Radke, 2012
 * [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
 
+#### C/C++
+* [C++ Primer (2012,5th)](http://www.informit.com/store/c-plus-plus-primer-9780321714114) - Stanley B. Lippman
+* [The C++ Programming Language (2013,4th)](http://www.stroustrup.com/4th.html) - Bjarne Stroustrup
+* [The C++ Standard Library: A Tutorial and Reference (2012,2nd)](http://www.josuttis.com/libbook/) - Nicolai M. Josuttis
+
 #### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
 * [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/) - Adrian Rosebrock
