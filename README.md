@@ -22,6 +22,18 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 ## Books
 
+#### C/C++
+* [C++ Primer (2012,5th)](http://www.informit.com/store/c-plus-plus-primer-9780321714114) - Stanley B. Lippman
+* [The C++ Programming Language (2013,4th)](http://www.stroustrup.com/4th.html) - Bjarne Stroustrup
+* [The C++ Standard Library: A Tutorial and Reference (2012,2nd)](http://www.josuttis.com/libbook/) - Nicolai M. Josuttis
+
+#### Linear Algebra and Matrix Analysis
+* [Linear Algebra, Step by Step (2014,1st)](http://www.academia.edu/5142311/Linear_Algebra_Step_by_Step) - Kuldeep Singh
+* [Introduction to Linear Algebra (2016,5th)](http://math.mit.edu/~gs/linearalgebra/) - Gilbert Strang
+* [Linear Algebra and Its Applications (2015,5th)](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/) - David C. Lay
+* [Linear Algebra Done Right (2015,3rd)](http://linear.axler.net) - Sheldon Axler
+* [Matrix Analysis (2012,2nd)](https://www.amazon.com/Matrix-Analysis-Roger-Horn/dp/0521548233) - Roger A. Horn
+
 #### Computer Vision
 * [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) - Simon J. D. Prince 2012
 * [Computer Vision: Theory and Application](http://szeliski.org/Book/) - Rick Szeliski 2010
@@ -32,11 +44,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman and Bastian Leibe 2011
 * [Computer Vision for Visual Effects](http://cvfxbook.com/) - Richard J. Radke, 2012
 * [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
-
-#### C/C++
-* [C++ Primer (2012,5th)](http://www.informit.com/store/c-plus-plus-primer-9780321714114) - Stanley B. Lippman
-* [The C++ Programming Language (2013,4th)](http://www.stroustrup.com/4th.html) - Bjarne Stroustrup
-* [The C++ Standard Library: A Tutorial and Reference (2012,2nd)](http://www.josuttis.com/libbook/) - Nicolai M. Josuttis
 
 #### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
@@ -54,12 +61,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 2014
 * [Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - David Barber, Cambridge University Press, 2012
 
-#### Linear Algebra and Matrix Analysis
-* [Linear Algebra, Step by Step (2014,1st)](http://www.academia.edu/5142311/Linear_Algebra_Step_by_Step) - Kuldeep Singh
-* [Introduction to Linear Algebra (2016,5th)](http://math.mit.edu/~gs/linearalgebra/) - Gilbert Strang
-* [Linear Algebra and Its Applications (2015,5th)](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/) - David C. Lay
-* [Linear Algebra Done Right (2015,3rd)](http://linear.axler.net) - Sheldon Axler
-* [Matrix Analysis (2012,2nd)](https://www.amazon.com/Matrix-Analysis-Roger-Horn/dp/0521548233) - Roger A. Horn
  
 ## Courses
 
