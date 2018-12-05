@@ -23,9 +23,17 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 ## Books
 
 #### C/C++
-* [C++ Primer (2012,5th)](http://www.informit.com/store/c-plus-plus-primer-9780321714114) - Stanley B. Lippman
 * [The C++ Programming Language (2013,4th)](http://www.stroustrup.com/4th.html) - Bjarne Stroustrup
+* [C++ Primer (2012,5th)](http://www.informit.com/store/c-plus-plus-primer-9780321714114) - Stanley B. Lippman
 * [The C++ Standard Library: A Tutorial and Reference (2012,2nd)](http://www.josuttis.com/libbook/) - Nicolai M. Josuttis
+* [C++ Templates: The Complete Guide (2017,2nd)](https://www.amazon.com/C-Templates-Complete-Guide-2nd/dp/0321714121) - David Vandevoorde
+* [Effective C++ (2005,3rd)](https://www.amazon.com/gp/product/0321334876) - Scott Meyers
+* [More Effective C++ (1996)](https://www.amazon.com/gp/product/020163371X) - Scott Meyers
+* [Effective STL (2001)](https://www.amazon.com/gp/product/0201749629) - Scott Meyers
+* [Effective Modern C++ (2014)](https://www.amazon.com/gp/product/1491903996) - Scott Meyers
+* [Inside the C++ Object Model (1996)](https://www.amazon.com/Inside-Object-Model-Stanley-Lippman/dp/0201834545) - Stanley B. Lippman
+* [21st Century C: C Tips from the New School (2014,2nd)](https://www.amazon.com/21st-Century-Tips-New-School/dp/1491903899) - Ben Klemens
+* [C++ Concurrency in Action: Practical Multithreading (2012)](https://www.amazon.com/C-Concurrency-Action-Practical-Multithreading/dp/1933988770) - Anthony Williams
 
 #### Linear Algebra and Matrix Analysis
 * [Linear Algebra, Step by Step (2014,1st)](http://www.academia.edu/5142311/Linear_Algebra_Step_by_Step) - Kuldeep Singh
