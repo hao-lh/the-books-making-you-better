@@ -25,9 +25,11 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [21st Century C: C Tips from the New School (2014,2nd)](https://www.amazon.com/21st-Century-Tips-New-School/dp/1491903899) - Ben Klemens
 * [C++ Concurrency in Action: Practical Multithreading (2012)](https://www.amazon.com/C-Concurrency-Action-Practical-Multithreading/dp/1933988770) - Anthony Williams
 
-#### Linear Algebra and Matrix Analysis
+#### Mathematical Foundations
 * [Introduction to Linear Algebra (2016,5th)](http://math.mit.edu/~gs/linearalgebra/) - Gilbert Strang
 * [Linear Algebra Done Right (2015,3rd)](http://linear.axler.net) - Sheldon Axler
+* [Probability and Statistics (2011,4th)](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot/dp/0321500466) - Morris H. DeGroot 
+* [Statistical Inference (2001,2nd)](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) - George Casella
 
 #### Machine Learning and Deep Learning
 * [Pattern Recognition and Machine Learning (2007)](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop
