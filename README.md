@@ -2,8 +2,6 @@
 # Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome computer vision resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
-
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (hao.omni@gmail.com) to add links.
 
@@ -11,14 +9,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
  - [Books](#books)
  - [Courses](#courses)
- - [Papers](#papers)
- - [Software](#software)
- - [Datasets](#datasets)
- - [Tutorials and Talks](#tutorials-and-talks)
- - [Resources for students](#resources-for-students)
- - [Blogs](#blogs)
- - [Links](#links)
- - [Songs](#songs)
 
 ## Books
 
@@ -42,17 +32,18 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### Machine Learning and Deep Learning
 * [Pattern Recognition and Machine Learning (2007)](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop
 * [Machine Learning: a Probabilistic Perspective (2012)](https://www.cs.ubc.ca/~murphyk/MLbook/) - Kevin Patrick Murphy
+* [An Introduction to Statistical Learning (2013)](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2009,2nd)](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani and Jerome Friedman
-* [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) - Daphne Koller and Nir Friedman 2009
+* [Probabilistic Graphical Models: Principles and Techniques (2009)](http://pgm.stanford.edu/) - Daphne Koller and Nir Friedman
 * [Deep Learning (2016)](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
-* [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman 2004
+* [Multiple View Geometry in Computer Vision (2004,2nd)](http://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman
 
  
 ## Courses
 
 #### Machine Learning and Statistical Learning
  * [Machine Learning](https://www.coursera.org/course/ml) - Andrew Ng (Stanford University)
- * []() - 
+ * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu) - Fei-Fei Li (Stanford University)
 
 ## Licenses
 License
