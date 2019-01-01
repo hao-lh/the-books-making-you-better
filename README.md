@@ -3,7 +3,7 @@
 A curated list of awesome computer vision resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (hao.omni@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/hao-lh/awesome-computer-vision/pulls) or [email](mailto:hao.omni@gmail.com) to add links.
 
 ## Table of Contents
 
@@ -52,4 +52,4 @@ License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Hao Liu](https://github.com/hao-lh/awesome-computer-vision) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Hao](mailto:hao.omni@gmail.com) has waived all copyright and related or neighboring rights to this work.
