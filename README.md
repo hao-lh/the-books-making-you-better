@@ -44,6 +44,10 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2009,2nd)](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani and Jerome Friedman
 
 ##### Deep Learning
+
+* [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask
+* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) - François Chollet
+* [Neural Networks and Deep Learning: A Textbook](http://www.charuaggarwal.net/neural.htm) - Charu C. Aggarwal
 * [Deep Learning (2016)](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
 ##### Computer Vision
