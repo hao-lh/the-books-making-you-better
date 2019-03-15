@@ -1,6 +1,9 @@
 
 # Books Making You Better
 
+![Nerd-Geek-Reading-Book-Gray](https://user-images.githubusercontent.com/14138581/54433286-7237b300-4766-11e9-8b8b-b1749c4d6d74.gif)
+
+
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/hao-lh/books-making-you-better/pulls) or [email](mailto:hao.omni@gmail.com) to add links.
 
@@ -11,7 +14,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 
 ## Books
 
-#### C/C++
+#### Programming
 * [The C++ Programming Language (2013,4th)](http://www.stroustrup.com/4th.html) - Bjarne Stroustrup
 * [C++ Primer (2012,5th)](http://www.informit.com/store/c-plus-plus-primer-9780321714114) - Stanley B. Lippman
 * [The C++ Standard Library: A Tutorial and Reference (2012,2nd)](http://www.josuttis.com/libbook/) - Nicolai M. Josuttis
@@ -21,8 +24,19 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Effective STL (2001)](https://www.amazon.com/gp/product/0201749629) - Scott Meyers
 * [Effective Modern C++ (2014)](https://www.amazon.com/gp/product/1491903996) - Scott Meyers
 * [Inside the C++ Object Model (1996)](https://www.amazon.com/Inside-Object-Model-Stanley-Lippman/dp/0201834545) - Stanley B. Lippman
+* [Expert C Programming: Deep C Secrets (1994)](https://www.amazon.com/Expert-Programming-Peter-van-Linden/dp/0131774298) - Peter Van Der Linden
+* [Understanding and Using C Pointers (2013)](https://www.amazon.com/Understanding-Using-Pointers-Techniques-Management/dp/1449344186) - Richard M Reese
 * [21st Century C: C Tips from the New School (2014,2nd)](https://www.amazon.com/21st-Century-Tips-New-School/dp/1491903899) - Ben Klemens
-* [C++ Concurrency in Action: Practical Multithreading (2012)](https://www.amazon.com/C-Concurrency-Action-Practical-Multithreading/dp/1933988770) - Anthony Williams
+* [C++ Concurrency in Action (2019,2nd)](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition) - Anthony Williams
+
+
+#### Computer System
+* [Introduction to Computing Systems: From Bits and Gates to C and Beyond (2004,2nd)](http://highered.mheducation.com/sites/0072467509/index.html) - Yale N. Patt and Sanjay J. Patel
+* [Computer Systems: A Programmer's Perspective (2015,3rd)](http://www.csapp.cs.cmu.edu) - Randal E. Bryant and David R. O'Hallaron
+* [Operating Systems: Three Easy Pieces (2018)](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+* [Operating Systems: Principles and Practice (2014,2nd)](http://ospp.cs.washington.edu) - Thomas Anderson and Michael Dahlin
+* [Computer Architecture: A Quantitative Approach (2018,6th)](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X) - John Hennessy and David Patterson
+
 
 #### Mathematical Foundations
 
@@ -45,9 +59,9 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 
 ##### Deep Learning
 
-* [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask
-* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) - François Chollet
-* [Neural Networks and Deep Learning: A Textbook](http://www.charuaggarwal.net/neural.htm) - Charu C. Aggarwal
+* [Grokking Deep Learning (2019)](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask
+* [Deep Learning with Python (2017)](https://www.manning.com/books/deep-learning-with-python) - François Chollet
+* [Neural Networks and Deep Learning: A Textbook (2018)](http://www.charuaggarwal.net/neural.htm) - Charu C. Aggarwal
 * [Deep Learning (2016)](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
 ##### Computer Vision
