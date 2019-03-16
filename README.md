@@ -1,7 +1,7 @@
 
 # Books Making You Better
 
-![Nerd-Geek-Reading-Book-Gray](https://user-images.githubusercontent.com/14138581/54433286-7237b300-4766-11e9-8b8b-b1749c4d6d74.gif)
+![Nerd-Geek-Reading-Book](https://user-images.githubusercontent.com/14138581/54471371-e750ca00-47f2-11e9-8f42-e3f04829aedd.jpg)
 
 
 ## Contributing
