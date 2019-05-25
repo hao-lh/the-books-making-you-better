@@ -33,7 +33,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 #### Computer System
 * [Introduction to Computing Systems: From Bits and Gates to C and Beyond (2004,2nd)](http://highered.mheducation.com/sites/0072467509/index.html) - Yale N. Patt and Sanjay J. Patel
 * [Computer Systems: A Programmer's Perspective (2015,3rd)](http://www.csapp.cs.cmu.edu) - Randal E. Bryant and David R. O'Hallaron
-* [Operating Systems: Three Easy Pieces (2018)](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+* [Operating Systems: Three Easy Pieces (2018)](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau [errata](http://pages.cs.wisc.edu/~remzi/OSTEP/combined.html)
 * [Operating Systems: Principles and Practice (2014,2nd)](http://ospp.cs.washington.edu) - Thomas Anderson and Michael Dahlin
 * [Computer Architecture: A Quantitative Approach (2018,6th)](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X) - John Hennessy and David Patterson
 
@@ -76,6 +76,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 #### Machine Learning and Statistical Learning
  * [Machine Learning](https://www.coursera.org/course/ml) - Andrew Ng (Stanford University)
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu) - Fei-Fei Li (Stanford University)
+ * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - [deeplearning.ai](https://www.deeplearning.ai)
 
 ## Licenses
 License
