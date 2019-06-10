@@ -31,9 +31,9 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [21st Century C: C Tips from the New School (2014,2nd)](https://www.amazon.com/21st-Century-Tips-New-School/dp/1491903899) - Ben Klemens
 * [C++ Concurrency in Action (2019,2nd)](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition) - Anthony Williams
 ##### Python
-* [Learning Python (2013,5th)](https://learning-python.com/about-lp.html)
-* [Python Cookbook (2013,3rd)](http://www.dabeaz.com/cookbook.html)
-* [Fluent Python: Clear, Concise, and Effective Programming (2015)](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
+* [Learning Python (2013,5th)](https://learning-python.com/about-lp.html) - Mark Lutz
+* [Python Cookbook (2013,3rd)](http://www.dabeaz.com/cookbook.html) - Brian Jones and David Beazley
+* [Fluent Python: Clear, Concise, and Effective Programming (2015)](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) - Luciano Ramalho
 
 #### Computer System
 * [Introduction to Computing Systems: From Bits and Gates to C and Beyond (2004,2nd)](http://highered.mheducation.com/sites/0072467509/index.html) - Yale N. Patt and Sanjay J. Patel
@@ -57,6 +57,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Pattern Recognition and Machine Learning (2007)](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop
 * [Machine Learning: a Probabilistic Perspective (2012)](https://www.cs.ubc.ca/~murphyk/MLbook/) - Kevin Patrick Murphy
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2009,2nd)](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani and Jerome Friedman
+* [Linear Algebra and Optimization for Machine Learning: A Textbook]() - Charu C. Aggarwal
 
 ##### Deep Learning
 * [Grokking Deep Learning (2019)](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask
