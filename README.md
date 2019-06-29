@@ -77,6 +77,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 #### Machine Learning and Statistical Learning
  * [Machine Learning](https://www.coursera.org/course/ml) - Andrew Ng (Stanford University)
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu) - Fei-Fei Li (Stanford University)
+ * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) - Chris Manning (Stanford University)
  * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - [deeplearning.ai](https://www.deeplearning.ai)
 
 ## Licenses
