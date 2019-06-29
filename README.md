@@ -63,6 +63,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 ##### Deep Learning
 * [Grokking Deep Learning (2019)](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask
 * [Deep Learning with Python (2017)](https://www.manning.com/books/deep-learning-with-python) - François Chollet
+* [Hands-on Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) - Aurélien Géron
 * [Neural Networks and Deep Learning: A Textbook (2018)](http://www.charuaggarwal.net/neural.htm) - Charu C. Aggarwal
 * [Deep Learning (2016)](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
