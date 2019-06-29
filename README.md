@@ -55,15 +55,15 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 #### Machine Learning and Deep Learning
 ##### Machine Learning
 * [An Introduction to Statistical Learning (2013)](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-* [Pattern Recognition and Machine Learning (2007)](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop
-* [Machine Learning: a Probabilistic Perspective (2012)](https://www.cs.ubc.ca/~murphyk/MLbook/) - Kevin Patrick Murphy
+* [Pattern Recognition and Machine Learning (2007)](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) [[code](https://github.com/PRML/PRMLT)] - Christopher M. Bishop
+* [Machine Learning: a Probabilistic Perspective (2012)](https://www.cs.ubc.ca/~murphyk/MLbook/) [[code](https://github.com/probml/pmtk3)] - Kevin Patrick Murphy
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2009,2nd)](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani and Jerome Friedman
 * [Linear Algebra and Optimization for Machine Learning: A Textbook]() - Charu C. Aggarwal
 
 ##### Deep Learning
 * [Grokking Deep Learning (2019)](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask
-* [Deep Learning with Python (2017)](https://www.manning.com/books/deep-learning-with-python) - François Chollet
-* [Hands-on Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) - Aurélien Géron
+* [Deep Learning with Python (2017)](https://www.manning.com/books/deep-learning-with-python) [[code](https://github.com/fchollet/deep-learning-with-python-notebooks)] - François Chollet
+* [Hands-on Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) [[code](https://github.com/ageron/handson-ml)] - Aurélien Géron
 * [Neural Networks and Deep Learning: A Textbook (2018)](http://www.charuaggarwal.net/neural.htm) - Charu C. Aggarwal
 * [Deep Learning (2016)](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
