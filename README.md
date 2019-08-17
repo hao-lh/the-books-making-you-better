@@ -53,7 +53,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Linear Algebra and Its Applications (2016,5th)](https://www.pearson.com/us/higher-education/program/Lay-Linear-Algebra-and-Its-Applications-plus-New-My-Lab-Math-with-Pearson-e-Text-Access-Card-Package-5th-Edition/PGM2547338.html?tab=resources) - David C. Lay
 * [Introduction to Linear Algebra (2016,5th)](http://math.mit.edu/~gs/linearalgebra/) - Gilbert Strang
 * [Linear Algebra Done Right (2015,3rd)](http://linear.axler.net) - Sheldon Axler
-* [Linear Algebra and Geometry](https://link.springer.com/book/10.1007/978-3-642-30994-6) - Igor R. Shafarevich and Alexey O. Remizov
+* [Linear Algebra and Geometry (2013)](https://link.springer.com/book/10.1007/978-3-642-30994-6) - Igor R. Shafarevich and Alexey O. Remizov
 
 ##### Statistics
 * [Probability and Statistics (2011,4th)](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot/dp/0321500466) - Morris H. DeGroot 
