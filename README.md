@@ -37,7 +37,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 ##### CUDA
 * [CUDA by Example: An Introduction to General-Purpose GPU Programming (2010)](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685/) - Jason Sanders
 * [Professional CUDA C Programming (2014)](https://www.amazon.com/Professional-CUDA-Programming-John-Cheng/dp/1118739329/) - John Cheng
-* [Programming Massively Parallel Processors, Second Edition: A Hands-on Approach (2016,3rd)](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0128119861) - David B. Kirk and Wen-mei W. Hwu
+* [Programming Massively Parallel Processors: A Hands-on Approach (2016,3rd)](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0128119861) - David B. Kirk and Wen-mei W. Hwu
 
 
 #### Computer System
