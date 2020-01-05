@@ -73,6 +73,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Hands-on Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) [[code](https://github.com/ageron/handson-ml)] - Aurélien Géron
 * [Neural Networks and Deep Learning: A Textbook (2018)](http://www.charuaggarwal.net/neural.htm) - Charu C. Aggarwal
 * [Deep Learning (2016)](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* [Generative Deep Learning (2019)](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) - David Foster
 
 ##### Computer Vision
 * [Multiple View Geometry in Computer Vision (2004,2nd)](http://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman
