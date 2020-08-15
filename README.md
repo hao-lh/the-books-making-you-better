@@ -41,7 +41,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 
 
 #### Computer System
-* [Introduction to Computing Systems: From Bits and Gates to C and Beyond (2004,2nd)](http://highered.mheducation.com/sites/0072467509/index.html) - Yale N. Patt and Sanjay J. Patel
+* [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond (2020,3rd)](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html) - Yale N. Patt and Sanjay J. Patel
 * [Computer Systems: A Programmer's Perspective (2015,3rd)](http://www.csapp.cs.cmu.edu) [[videos]](https://www.youtube.com/playlist?list=PLbY-cFJNzq7z_tQGq-rxtq_n2QQDf5vnM)[[slides]](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html) - Randal E. Bryant and David R. O'Hallaron
 * [Operating Systems: Three Easy Pieces (2018)](http://pages.cs.wisc.edu/~remzi/OSTEP/) [[errata]](http://pages.cs.wisc.edu/~remzi/OSTEP/combined.html) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 * [Operating Systems: Principles and Practice (2014,2nd)](http://ospp.cs.washington.edu) - Thomas Anderson and Michael Dahlin
