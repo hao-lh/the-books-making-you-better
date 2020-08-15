@@ -59,6 +59,11 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Probability and Statistics (2011,4th)](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot/dp/0321500466) - Morris H. DeGroot 
 * [Statistical Inference (2001,2nd)](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) - George Casella
 
+##### Algorithms
+* [Algorithms (2011,4th)](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
+* [The Algorithm Design Manual (2011,2nd)](http://www.algorist.com) - Steven Skiena
+
+
 #### Machine Learning and Deep Learning
 ##### Machine Learning
 * [An Introduction to Statistical Learning (2013)](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
