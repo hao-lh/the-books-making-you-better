@@ -69,6 +69,8 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [An Introduction to Statistical Learning (2013)](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [Pattern Recognition and Machine Learning (2007)](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) [[code](https://github.com/PRML/PRMLT)] - Christopher M. Bishop
 * [Machine Learning: a Probabilistic Perspective (2012)](https://www.cs.ubc.ca/~murphyk/MLbook/) [[code](https://github.com/probml/pmtk3)] - Kevin Patrick Murphy
+* [Probabilistic Machine Learning: An Introduction (2021)](https://probml.github.io/pml-book/book1.html) [[code](https://github.com/probml/pyprobml)] -  Kevin Patrick Murphy
+* [Probabilistic Machine Learning: Advanced Topics (2022)](https://probml.github.io/pml-book/book2.html) [[code](https://github.com/probml/pyprobml)] -  Kevin Patrick Murphy
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2009,2nd)](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani and Jerome Friedman
 * [Linear Algebra and Optimization for Machine Learning: A Textbook]() - Charu C. Aggarwal
 
