@@ -61,7 +61,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 
 ##### Algorithms
 * [Algorithms (2011,4th)](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
-* [The Algorithm Design Manual (2011,2nd)](http://www.algorist.com) - Steven Skiena
+* [The Algorithm Design Manual (2020,3rd)](http://www.algorist.com) [[errata]](https://www3.cs.stonybrook.edu/~skiena/algorist/book/errata-adm3) - Steven Skiena
 
 
 #### Machine Learning and Deep Learning
