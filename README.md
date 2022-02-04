@@ -41,12 +41,17 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 
 
 #### Computer System
+##### Operating System
 * [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond (2020,3rd)](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html) - Yale N. Patt and Sanjay J. Patel
 * [Computer Systems: A Programmer's Perspective (2015,3rd)](http://www.csapp.cs.cmu.edu) [[videos]](https://www.youtube.com/playlist?list=PLbY-cFJNzq7z_tQGq-rxtq_n2QQDf5vnM)[[slides]](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html) - Randal E. Bryant and David R. O'Hallaron
 * [Operating Systems: Three Easy Pieces (2018)](http://pages.cs.wisc.edu/~remzi/OSTEP/) [[errata]](http://pages.cs.wisc.edu/~remzi/OSTEP/combined.html) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 * [Operating Systems: Principles and Practice (2014,2nd)](http://ospp.cs.washington.edu) - Thomas Anderson and Michael Dahlin
 * [The Linux Programming Interface (2010)](http://www.man7.org/tlpi/) - Michael Kerrisk
 * [Computer Architecture: A Quantitative Approach (2018,6th)](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X) - John Hennessy and David Patterson
+
+##### System Design
+* [Designing Data-Intensive Applications (2017)](https://martin.kleppmann.com/2017/03/27/designing-data-intensive-applications.html) [[About]](https://dataintensive.net/)[[Errata]](https://www.oreilly.com/catalog/errata.csp?isbn=0636920032175) - Martin Kleppmann
+
 
 #### Mathematical Foundations
 ##### Linear Algebra
