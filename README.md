@@ -72,7 +72,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 #### Machine Learning and Deep Learning
 ##### Machine Learning
 * [An Introduction to Statistical Learning (2013)](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-* [Pattern Recognition and Machine Learning (2007)](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) [[code](https://github.com/PRML/PRMLT)] - Christopher M. Bishop
+* [Pattern Recognition and Machine Learning (2007)](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) [[Python](https://github.com/ctgk/PRML)/[Matlab](https://github.com/PRML/PRMLT)/[Solution](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)/[Manual](https://github.com/zhengqigao/PRML-Solution-Manual/blob/master/PRML_Solution_Manual.pdf)] - Christopher M. Bishop
 * [Machine Learning: a Probabilistic Perspective (2012)](https://www.cs.ubc.ca/~murphyk/MLbook/) [[code](https://github.com/probml/pmtk3)] - Kevin Patrick Murphy
 * [Probabilistic Machine Learning: An Introduction (2021)](https://probml.github.io/pml-book/book1.html) [[code](https://github.com/probml/pyprobml)] -  Kevin Patrick Murphy
 * [Probabilistic Machine Learning: Advanced Topics (2022)](https://probml.github.io/pml-book/book2.html) [[code](https://github.com/probml/pyprobml)] -  Kevin Patrick Murphy
