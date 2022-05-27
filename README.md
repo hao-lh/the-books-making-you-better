@@ -61,6 +61,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Linear Algebra and Geometry (2013)](https://link.springer.com/book/10.1007/978-3-642-30994-6) - Igor R. Shafarevich and Alexey O. Remizov
 
 ##### Statistics
+* [Probability Theory: The Logic of Science (2003)](http://www.cambridge.org/9780521592710) -  E. T. Jaynes and G. Larry Bretthorst
 * [Probability and Statistics (2011,4th)](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot/dp/0321500466) - Morris H. DeGroot 
 * [Statistical Inference (2001,2nd)](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) - George Casella
 
