@@ -47,7 +47,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Operating Systems: Three Easy Pieces (2018)](http://pages.cs.wisc.edu/~remzi/OSTEP/) [[errata]](http://pages.cs.wisc.edu/~remzi/OSTEP/combined.html) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 * [Operating Systems: Principles and Practice (2014,2nd)](http://ospp.cs.washington.edu) - Thomas Anderson and Michael Dahlin
 * [The Linux Programming Interface (2010)](http://www.man7.org/tlpi/) - Michael Kerrisk
-* [Computer Architecture: A Quantitative Approach (2018,6th)](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X) - John Hennessy and David Patterson
+* [Computer Architecture: A Quantitative Approach (2017,6th)](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-Kaufmann/dp/0128119055) - John Hennessy and David Patterson
 
 ##### System Design
 * [Designing Data-Intensive Applications (2017)](https://martin.kleppmann.com/2017/03/27/designing-data-intensive-applications.html) [[About]](https://dataintensive.net/)[[Errata]](https://www.oreilly.com/catalog/errata.csp?isbn=0636920032175) - Martin Kleppmann
