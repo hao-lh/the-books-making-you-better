@@ -33,7 +33,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 ##### Python
 * [Learning Python (2013,5th)](https://learning-python.com/about-lp.html) - Mark Lutz
 * [Python Cookbook (2013,3rd)](http://www.dabeaz.com/cookbook.html) - Brian Jones and David Beazley
-* [Fluent Python: Clear, Concise, and Effective Programming (2015)](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) - Luciano Ramalho
+* [Fluent Python: Clear, Concise, and Effective Programming (2022,2nd)](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359) - Luciano Ramalho
 ##### CUDA
 * [CUDA by Example: An Introduction to General-Purpose GPU Programming (2010)](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685/) - Jason Sanders
 * [Professional CUDA C Programming (2014)](https://www.amazon.com/Professional-CUDA-Programming-John-Cheng/dp/1118739329/) - John Cheng
