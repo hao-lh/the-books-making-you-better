@@ -107,6 +107,11 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 #### Computer Systems<a name="courses-computer-systems" />
 * [The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/) - Anish, Jon, and Jose
 
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=hao-lh/the-road-to-computer-vision&type=Date)](https://star-history.com/#hao-lh/the-road-to-computer-vision&Date)
+
+
 ## Licenses
 License
 
