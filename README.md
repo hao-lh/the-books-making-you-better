@@ -85,7 +85,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Probabilistic Machine Learning: An Introduction (2021)](https://probml.github.io/pml-book/book1.html) [[code](https://github.com/probml/pyprobml)] -  Kevin Patrick Murphy
 * [Probabilistic Machine Learning: Advanced Topics (2022)](https://probml.github.io/pml-book/book2.html) [[code](https://github.com/probml/pyprobml)] -  Kevin Patrick Murphy
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2009,2nd)](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani and Jerome Friedman
-* [Linear Algebra and Optimization for Machine Learning: A Textbook]() - Charu C. Aggarwal
+* [Linear Algebra and Optimization for Machine Learning: A Textbook](https://charuaggarwal.net/) - Charu C. Aggarwal
 ##### Deep Learning<a name="deep-learning" />
 * [Grokking Deep Learning (2019)](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask
 * [Deep Learning with Python (2017)](https://www.manning.com/books/deep-learning-with-python) [[code](https://github.com/fchollet/deep-learning-with-python-notebooks)] - François Chollet
