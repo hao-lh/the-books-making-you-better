@@ -29,6 +29,10 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
  - [Courses](#courses)
     - [Machine Learning and Statistical Learning](#courses-machine-learning-statistical-learning)
     - [Computer Systems](#courses-computer-systems)
+ - [Papers](#papers)
+    - [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)
+    - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 
 ## Books<a name="books" />
 #### Programming<a name="programming" />
@@ -106,6 +110,10 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - [deeplearning.ai](https://www.deeplearning.ai)
 #### Computer Systems<a name="courses-computer-systems" />
 * [The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/) - Anish, Jon, and Jose
+
+
+## Papers<a name="papers" />
+
 
 
 ## Star History
