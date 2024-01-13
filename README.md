@@ -114,8 +114,8 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 
 ## Papers<a name="papers" />
 #### Deep Learning<a name="papers-deep-learning" />
-* He, Kaiming, et al. "[Deep residual learning for image recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
-* Vaswani, Ashish, et al. "[Attention is all you need](https://arxiv.org/abs/1706.03762)." Advances in neural information processing systems 30 (2017).
+* He, Kaiming, et al. "[Deep residual learning for image recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)." Proceedings of the IEEE conference on computer vision and pattern recognition. *2016*.
+* Vaswani, Ashish, et al. "[Attention is all you need](https://arxiv.org/abs/1706.03762)." Advances in neural information processing systems 30 (*2017*).
 
 
 ## Star History
