@@ -57,7 +57,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 ##### CUDA<a name="cuda" />
 * [CUDA by Example: An Introduction to General-Purpose GPU Programming (2010)](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685/) - Jason Sanders
 * [Professional CUDA C Programming (2014)](https://www.amazon.com/Professional-CUDA-Programming-John-Cheng/dp/1118739329/) - John Cheng
-* [Programming Massively Parallel Processors: A Hands-on Approach (2016,3rd)](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0128119861) - David B. Kirk and Wen-mei W. Hwu
+* [Programming Massively Parallel Processors: A Hands-on Approach (2022,4th)](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands-dp-0323912311/dp/0323912311) - David B. Kirk and Wen-mei W. Hwu
 #### Computer System<a name="computer-system" />
 ##### Operating System<a name="operating-system" />
 * [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond (2020,3rd)](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html) - Yale N. Patt and Sanjay J. Patel
