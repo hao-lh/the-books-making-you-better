@@ -27,6 +27,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
         - [Computer Vision](#computer-vision)
         - [Probabilistic Graphic Model](#probabilistic-graphic-model)
  - [Courses](#courses)
+    - [Large Language Models (LLM)](#courses-large-language-models)
     - [Machine Learning and Statistical Learning](#courses-machine-learning-statistical-learning)
     - [Computer Systems](#courses-computer-systems)
  - [Papers](#papers)
@@ -97,16 +98,20 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/books-maki
 * [Neural Networks and Deep Learning: A Textbook (2018)](http://www.charuaggarwal.net/neural.htm) - Charu C. Aggarwal
 * [Deep Learning (2016)](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * [Generative Deep Learning (2019)](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) - David Foster
+##### Large Language Models (LLM)<a name="large-language-models" />
+* [Build a Large Language Model (From Scratch) (2024)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - Sebastian Raschka
 ##### Computer Vision<a name="computer-vision" />
 * [Multiple View Geometry in Computer Vision (2004,2nd)](http://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman
 ##### Probabilistic Graphic Model<a name="probabilistic-graphic-model" />
 * [Probabilistic Graphical Models: Principles and Techniques (2009)](http://pgm.stanford.edu/) - Daphne Koller and Nir Friedman
 
 ## Courses<a name="courses" />
+#### Large Language Models (LLM)<a name="courses-large-language-models" />
+* [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) - Chris Manning (Stanford University)
+* [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) - Tatsunori Hashimoto/Percy Liang (Stanford University)
 #### Machine Learning and Statistical Learning<a name="courses-machine-learning-statistical-learning" />
 * [Machine Learning](https://www.coursera.org/course/ml) - Andrew Ng (Stanford University)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu) - Fei-Fei Li (Stanford University)
-* [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) - Chris Manning (Stanford University)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - [deeplearning.ai](https://www.deeplearning.ai)
 #### Computer Systems<a name="courses-computer-systems" />
 * [The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/) - Anish, Jon, and Jose
