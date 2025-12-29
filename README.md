@@ -321,7 +321,6 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/the-books-
 
 ## Courses<a name="courses" />
 #### Large Language Models (LLM)<a name="courses-large-language-models" />
-#### Large Language Models (LLM)
 
 * [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) - Chris Manning (Stanford University) ([GitHub][1])
 
