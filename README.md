@@ -39,62 +39,62 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/the-books-
 #### Programming<a name="programming" />
 ##### C/C++<a name="c-cpp" />
 
-* [The C++ Programming Language (2013,4th)](https://www.stroustrup.com/4th.html) - Bjarne Stroustrup ([Bjarne Stroustrup][2])
+* [The C++ Programming Language (2013,4th)](https://www.stroustrup.com/4th.html) - Bjarne Stroustrup
 
   * Summary: A definitive, from-the-source tour of modern C++ and its core abstractions, written by the language’s creator.
   * What you’ll learn: You can expect a rigorous mental model of C++ features, idioms, and standard-library usage that translates into more correct and performant code.
 
-* [C++ Primer (2012,5th)](https://www.informit.com/store/c-plus-plus-primer-9780321714114) - Stanley B. Lippman ([InformIT][3])
+* [C++ Primer (2012,5th)](https://www.informit.com/store/c-plus-plus-primer-9780321714114) - Stanley B. Lippman
 
   * Summary: A structured, exercise-heavy introduction that builds practical proficiency in modern C++.
   * What you’ll learn: You’ll gain hands-on fluency with the language fundamentals and STL, plus the discipline to write readable, idiomatic C++.
 
-* [The C++ Standard Library: A Tutorial and Reference (2012,2nd)](https://www.josuttis.com/libbook/) - Nicolai M. Josuttis 
+* [The C++ Standard Library: A Tutorial and Reference (2012,2nd)](https://www.cppstdlib.com/) - Nicolai M. Josuttis 
 
   * Summary: A deep, pragmatic guide to the C++ standard library, combining reference coverage with patterns for real use.
   * What you’ll learn: You’ll learn how containers, iterators, algorithms, and utilities fit together, and how to use them correctly and efficiently.
 
-* [C++ Templates: The Complete Guide (2017,2nd)](https://www.amazon.com) - David Vandevoorde ([GitHub][1])
+* [C++ Templates: The Complete Guide (2017,2nd)](https://tmplbook.com/) - David Vandevoorde
 
   * Summary: A comprehensive treatment of templates, from fundamentals to advanced generic programming techniques.
   * What you’ll learn: You can expect to master template mechanics, type deduction, and compile-time techniques that enable reusable, high-performance libraries.
 
-* [Effective C++ (2005,3rd)](https://www.amazon.com) - Scott Meyers ([GitHub][1])
+* [Effective C++ (2005,3rd)](https://www.informit.com/store/effective-c-plus-plus-55-specific-ways-to-improve-your-9780321334879) - Scott Meyers
 
   * Summary: A collection of high-impact rules of thumb for writing safer, cleaner, and more maintainable C++.
   * What you’ll learn: You’ll internalize best practices and common pitfalls, improving correctness and design decisions in day-to-day coding.
 
-* [More Effective C++ (1996)](https://www.amazon.com) - Scott Meyers ([GitHub][1])
+* [More Effective C++ (1996)](https://www.informit.com/store/more-effective-c-plus-plus-35-new-ways-to-improve-your-9780201633719) - Scott Meyers
 
   * Summary: A continuation that focuses on nuanced C++ behaviors and advanced usage patterns.
   * What you’ll learn: You’ll strengthen your ability to reason about tricky language corners and write robust, production-grade C++.
 
-* [Effective STL (2001)](https://www.amazon.com) - Scott Meyers ([GitHub][1])
+* [Effective STL (2001)](https://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629) - Scott Meyers
 
   * Summary: Practical guidance for using STL containers, algorithms, and iterators without stepping on subtle traps.
   * What you’ll learn: You’ll learn performance and correctness gotchas, plus how to write STL-heavy code that stays predictable under change.
 
-* [Effective Modern C++ (2014)](https://www.amazon.com) - Scott Meyers ([GitHub][1])
+* [Effective Modern C++ (2014)](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996) - Scott Meyers
 
   * Summary: A modern best-practices guide for C++11/14 features such as move semantics, smart pointers, and lambdas.
   * What you’ll learn: You’ll gain a working, practical grasp of “modern C++” idioms that directly improves code safety and clarity.
 
-* [Inside the C++ Object Model (1996)](https://www.amazon.com) - Stanley B. Lippman ([GitHub][1])
+* [Inside the C++ Object Model (1996)](https://www.informit.com/store/inside-the-c-plus-plus-object-model-9780201834543) - Stanley B. Lippman
 
   * Summary: An implementation-oriented explanation of how C++ objects, inheritance, and virtual dispatch are typically laid out and executed.
   * What you’ll learn: You’ll build intuition for performance, memory layout, and ABI implications that help when debugging low-level issues.
 
-* [Expert C Programming: Deep C Secrets (1994)](https://www.amazon.com) - Peter Van Der Linden ([GitHub][1])
+* [Expert C Programming: Deep C Secrets (1994)](https://www.informit.com/store/expert-c-programming-deep-secrets-9780133522235) - Peter Van Der Linden
 
   * Summary: A classic, opinionated tour of C’s sharp edges, undefined behaviors, and compiler/ABI realities.
   * What you’ll learn: You can expect to learn how to avoid fragile C code and how to diagnose problems that only show up in production builds.
 
-* [Understanding and Using C Pointers (2013)](https://www.amazon.com) - Richard M Reese ([GitHub][1])
+* [Understanding and Using C Pointers (2013)](https://www.amazon.com/Understanding-Using-Pointers-Techniques-Management/dp/1449344186) - Richard M Reese
 
   * Summary: A targeted guide to pointers, memory, and common patterns in C programming.
   * What you’ll learn: You’ll become more comfortable with memory management and pointer-heavy APIs, reducing bugs like leaks and invalid accesses.
 
-* [21st Century C: C Tips from the New School (2014,2nd)](https://www.amazon.com) - Ben Klemens ([GitHub][1])
+* [21st Century C: C Tips from the New School (2014,2nd)](https://www.amazon.com/21st-Century-Tips-New-School/dp/1491903899) - Ben Klemens
 
   * Summary: A modern perspective on writing C with contemporary tooling, testing, packaging, and safer habits.
   * What you’ll learn: You’ll learn how to make C development feel “modern,” with better workflows and more maintainable codebases.
