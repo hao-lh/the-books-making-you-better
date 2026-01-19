@@ -10,22 +10,23 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/the-books-
 ## Table of Contents
 
  - [Books](#books)
-    - [Programming](#programming)
-        - [C/C++](#c-cpp)
-        - [Python](#python)
-        - [CUDA](#cuda)
-    - [Computer System](#computer-system)
-        - [Operating System](#operating-system)
-        - [System Design](#system-design)
+     - [Machine Learning and Deep Learning](#machine-learning-deep-learning)
+        - [Large Language Models (LLM)](#books-large-language-models)
+        - [Machine Learning](#books-machine-learning)
+        - [Deep Learning](#books-deep-learning)
+        - [Computer Vision](#books-computer-vision)
+        - [Probabilistic Graphic Model](#books-probabilistic-graphic-model)
     - [Mathematical Foundations](#mathematical-foundations)
-        - [Linear Algebra](#linear-algebra)
-        - [Statistics](#statistics)
-        - [Algorithms](#algorithms)
-    - [Machine Learning and Deep Learning](#machine-learning-deep-learning)
-        - [Machine Learning](#machine-learning)
-        - [Deep Learning](#deep-learning)
-        - [Computer Vision](#computer-vision)
-        - [Probabilistic Graphic Model](#probabilistic-graphic-model)
+        - [Linear Algebra](#books-linear-algebra)
+        - [Statistics](#books-statistics)
+        - [Algorithms](#books-algorithms)
+    - [Computer System](#computer-system)
+        - [Operating System](#books-operating-system)
+        - [System Design](#books-system-design)
+    - [Programming](#programming)
+        - [C/C++](#books-c-cpp)
+        - [Python](#books-python)
+        - [CUDA](#books-cuda)
  - [Courses](#courses)
     - [Large Language Models (LLM)](#courses-large-language-models)
     - [Machine Learning and Statistical Learning](#courses-machine-learning-statistical-learning)
@@ -36,8 +37,194 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/the-books-
 
 
 ## Books<a name="books" />
+#### Machine Learning and Deep Learning<a name="machine-learning-deep-learning" />
+##### Large Language Models (LLM)<a name="books-large-language-models" />
+
+* [Build a Large Language Model (From Scratch) (2024)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - Sebastian Raschka ([Manning Publications][30])
+
+  * Summary: A practical build-it-yourself path through the core components behind modern LLMs, emphasizing implementation.
+  * What you’ll learn: You’ll learn how Transformers are assembled and trained, and what engineering constraints matter for inference, evaluation, and iteration.
+
+##### Machine Learning<a name="books-machine-learning" />
+
+* [Pattern Recognition and Machine Learning (2006)](https://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) [[python](https://github.com/ctgk/PRML)] [[matlab](https://github.com/PRML/PRMLT)] [[solutions](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)] [[solution manual](https://github.com/zhengqigao/PRML-Solution-Manual/blob/master/PRML_Solution_Manual.pdf)] - Christopher Bishop ([Microsoft Research][18])
+
+  * Summary: A landmark text that frames ML as probabilistic modeling, blending theory, algorithms, and graphical perspectives.
+  * What you’ll learn: You’ll learn core probabilistic ML tools (e.g., EM, variational methods, kernels, graphical models) that underpin many modern systems.
+
+* [Probabilistic Machine Learning: An Introduction (2022)](https://www.cs.ubc.ca/~murphyk/MLbook/) [[matlab](https://github.com/probml/pmtk3)] [[book](https://probml.github.io/pml-book/book1.html)] [[python](https://github.com/probml/pyprobml)] - Kevin P. Murphy ([Computer Science at UBC][19])
+
+  * Summary: A modern, broad ML text that unifies classical and contemporary methods through probabilistic modeling.
+  * What you’ll learn: You’ll learn how to design models under uncertainty, connect Bayesian and frequentist views, and implement methods with strong engineering instincts.
+
+* [Probabilistic Machine Learning: Advanced Topics (2023)](https://probml.github.io/pml-book/book2.html) [[python](https://github.com/probml/pyprobml)] - Kevin P. Murphy ([Probabilistic Machine Learning][20])
+
+  * Summary: A continuation that pushes into deeper probabilistic and advanced ML topics beyond the introductory volume.
+  * What you’ll learn: You’ll learn more advanced modeling and inference techniques that matter for research-grade work and complex real-world systems.
+
+* [An Introduction to Statistical Learning (2013)](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani ([Wiley Online Library][21])
+
+  * Summary: An accessible, applied introduction to statistical learning with a strong emphasis on intuition and practice.
+  * What you’ll learn: You’ll learn how and when to use key models (regression, trees, SVMs, etc.), and how to validate them properly in applied settings.
+
+* [The Elements of Statistical Learning (2009,2nd)](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani and Jerome Friedman ([Stanford University][22])
+
+  * Summary: A dense, theory-rich reference that digs into the mathematics behind statistical learning methods.
+  * What you’ll learn: You’ll gain deeper understanding of why models work, including bias–variance trade-offs and high-dimensional behavior.
+
+* [Machine Learning: A Probabilistic Perspective (2012)](https://www.amazon.com) - Kevin P. Murphy ([GitHub][1])
+
+  * Summary: A comprehensive ML text that treats many algorithms as instances of probabilistic modeling and inference.
+  * What you’ll learn: You’ll learn a unified framework for ML that improves your ability to derive, debug, and extend models.
+
+* [Machine Learning (2023)](https://charuaggarwal.net/) - Charu C. Aggarwal ([Charu Aggarwal][23])
+
+  * Summary: A broad, modern survey that covers a wide span of ML topics with a practical orientation.
+  * What you’ll learn: You’ll get a structured map of the ML landscape and understand where different methods fit and when they are appropriate.
+
+##### Deep Learning<a name="books-deep-learning" />
+
+* [Dive into Deep Learning (2020)](https://d2l.ai/) [[code](https://github.com/d2l-ai/d2l-en)] - Aston Zhang, Zachary Lipton, Mu Li, Alex Smola ([GitHub][1])
+
+  * Summary: An interactive deep learning textbook that pairs explanations with runnable code and experiments.
+  * What you’ll learn: You’ll learn to implement core deep learning models end-to-end and develop strong “research engineer” instincts through hands-on work.
+
+* [Grokking Deep Learning (2019)](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask ([Manning Publications][24])
+
+  * Summary: A friendly, from-scratch path to understanding neural networks through simple, buildable components.
+  * What you’ll learn: You’ll learn to derive and implement backprop, optimization, and core architectures without relying on black-box frameworks.
+
+* [Deep Learning with Python (2017)](https://www.manning.com/books/deep-learning-with-python) [[code](https://github.com/fchollet/deep-learning-with-python-notebooks)] - François Chollet ([Manning Publications][25])
+
+  * Summary: A practical deep learning guide centered on Keras workflows and real problem-solving patterns.
+  * What you’ll learn: You’ll learn to prototype, train, and debug neural nets efficiently, plus develop strong intuition for model/regularization choices.
+
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2019,2nd)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) [[code](https://github.com/ageron/handson-ml2)] - Aurélien Géron ([O'Reilly Media][26])
+
+  * Summary: A practitioner’s playbook for building ML and DL systems in Python, from classic models to neural nets.
+  * What you’ll learn: You’ll learn robust end-to-end workflows—data prep, training, evaluation, and deployment-oriented thinking—using widely adopted tooling.
+
+* [Neural Networks and Deep Learning: A Textbook (2018)](https://www.charuaggarwal.net/neural.htm) - Charu C. Aggarwal ([Charu Aggarwal][27])
+
+  * Summary: A structured textbook covering deep learning fundamentals and key architectures in a cohesive narrative.
+  * What you’ll learn: You’ll learn core theory and practice across MLPs, CNNs, RNNs, optimization, and regularization with a textbook-level rigor.
+
+* [Deep Learning (2016)](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio and Aaron Courville ([Deep Learning Book][28])
+
+  * Summary: The canonical reference for deep learning theory, spanning optimization, representation learning, and key model families.
+  * What you’ll learn: You’ll gain a principled foundation that helps you read papers, reason about training dynamics, and understand model failure modes.
+
+* [Generative Deep Learning (2019)](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) - David Foster ([O'Reilly Media][29])
+
+  * Summary: A hands-on guide to generative modeling approaches such as VAEs, GANs, and related deep generative methods.
+  * What you’ll learn: You’ll learn how to build generative models in practice and what evaluation and stability issues to anticipate.
+
+
+##### Computer Vision<a name="books-computer-vision" />
+
+* [Multiple View Geometry in Computer Vision (2004,2nd)](https://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman ([Oxford Robotics][31])
+
+  * Summary: A foundational text on the geometry of cameras and 3D reconstruction from multiple images.
+  * What you’ll learn: You’ll learn the math behind epipolar geometry, camera models, and structure-from-motion—useful for robotics and vision research.
+
+##### Probabilistic Graphic Model<a name="books-probabilistic-graphic-model" />
+
+* [Probabilistic Graphical Models: Principles and Techniques (2009)](https://pgm.stanford.edu/) - Daphne Koller and Nir Friedman ([Amazon][32])
+
+  * Summary: An authoritative reference on representing, learning, and performing inference in probabilistic graphical models.
+  * What you’ll learn: You’ll learn how to model structured uncertainty and apply exact/approximate inference methods that generalize across many domains.
+
+#### Mathematical Foundations<a name="mathematical-foundations" />
+##### Linear Algebra<a name="books-linear-algebra" />
+
+* [Linear Algebra and Its Applications (2016,5th)](https://www.pearson.com/us/higher-education/program/Lay-Linear-Algebra-and-Its-Applications-plus-New-My-Lab-Math-with-Pearson-e-Text-Access-Card-Package-5th-Edition/PGM2547338.html?tab=resources) - David C. Lay, Steven R. Lay, Judi J. McDonald ([Pearson][11])
+
+  * Summary: A standard applied linear algebra text emphasizing computation and applications alongside theory.
+  * What you’ll learn: You’ll learn core tools—vector spaces, matrix factorizations, eigenvalues—that power optimization, statistics, and ML.
+
+* [Introduction to Linear Algebra (2016,5th)](https://math.mit.edu/~gs/linearalgebra/) - Gilbert Strang ([MIT Mathematics][12])
+
+  * Summary: An intuitive, application-driven approach to linear algebra from a leading educator in the field.
+  * What you’ll learn: You’ll build strong intuition for column space, rank, orthogonality, and eigen-ideas that show up constantly in ML.
+
+* [Linear Algebra Done Right (2015,3rd)](https://linear.axler.net/) - Sheldon Axler ([Linear Algebra Done Right][13])
+
+  * Summary: A proof-oriented, concept-first linear algebra treatment emphasizing linear maps and vector spaces.
+  * What you’ll learn: You’ll gain mathematical maturity and cleaner abstraction skills that help with advanced ML theory and research papers.
+
+* [Linear Algebra and Geometry (2012)](https://link.springer.com/book/10.1007/978-3-642-30994-6) - Klaus Liesen and Volker Mehrmann ([Springer Nature Link][14])
+
+  * Summary: A rigorous bridge between linear algebra and geometric reasoning, often framed through transformations and structure.
+  * What you’ll learn: You’ll learn to connect algebraic computations with geometric interpretation, sharpening intuition for high-dimensional methods.
+
+##### Statistics<a name="books-statistics" />
+
+* [Probability Theory: The Logic of Science (2002)](https://www.cambridge.org/core/books/probability-theory/9CA08E224FF30123304E6D8935CF1A99) - E. T. Jaynes and G. Larry Bretthorst ([Cambridge University Press & Assessment][15])
+
+  * Summary: A foundational Bayesian view of probability as extended logic, with deep conceptual and practical implications.
+  * What you’ll learn: You’ll learn principled probabilistic reasoning and Bayesian inference that improves how you model uncertainty in ML and decision-making.
+
+* [Probability and Statistics (2010,4th)](https://www.amazon.com) - Morris H. DeGroot and Mark J. Schervish ([GitHub][1])
+
+  * Summary: A classic textbook covering probability foundations and core statistical inference topics.
+  * What you’ll learn: You’ll learn distributions, expectation, limit theorems, estimation, and testing—core prerequisites for serious ML work.
+
+* [Statistical Inference (2002,2nd)](https://www.amazon.com) - George Casella and Roger L. Berger ([GitHub][1])
+
+  * Summary: A rigorous, theory-oriented text on estimation and hypothesis testing with strong mathematical grounding.
+  * What you’ll learn: You’ll learn to reason formally about estimators, likelihood, asymptotics, and optimality—useful for research and model evaluation.
+
+##### Algorithms<a name="books-algorithms" />
+
+* [Algorithms (2011,4th)](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne ([Algorithms 4th Edition][16])
+
+  * Summary: A practical algorithms and data structures text with strong emphasis on implementation and performance.
+  * What you’ll learn: You’ll learn algorithmic patterns and complexity thinking that directly improves coding interviews and real software design.
+
+* [The Algorithm Design Manual (2020,3rd)](https://www.algorist.com/) [[errata](https://www3.cs.stonybrook.edu/~skiena/algorist/book/errata-adm3)] - Steven S. Skiena ([Algorist][17])
+
+  * Summary: A “toolbox” approach that teaches how to select and adapt algorithms for practical problems.
+  * What you’ll learn: You’ll learn problem classification, key algorithmic techniques, and how to navigate trade-offs quickly and correctly.
+
+
+#### Computer System<a name="computer-system" />
+##### Operating System<a name="books-operating-system" />
+
+* [Computer Systems: A Programmer's Perspective (2015,3rd)](https://csapp.cs.cmu.edu/) [[videos](https://www.youtube.com/playlist?list=PLbY-cFJNzq7z_tQGq-rxtq_n2QQDf5vnM)] [[lecture slides](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)] - Randal E. Bryant and David R. O'Hallaron ([Computer Systems Perspective][6])
+
+  * Summary: A systems classic that connects C code to the underlying machine—compilers, memory, linking, OS, and performance.
+  * What you’ll learn: You’ll learn how software actually executes on real hardware/OS stacks, enabling better debugging, optimization, and systems design.
+
+* [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond (2019,3rd)](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html) - Yale N. Patt and Sanjay J. Patel ([mheducation.com][7])
+
+  * Summary: A bottom-up introduction that builds intuition from digital logic to machine code to higher-level programming.
+  * What you’ll learn: You’ll learn how instruction sets, datapaths, and memory hierarchies shape program behavior and performance.
+
+* [Operating Systems: Three Easy Pieces (2018)](https://pages.cs.wisc.edu/~remzi/OSTEP/) [[errata](https://pages.cs.wisc.edu/~remzi/OSTEP/combined.html)] [[lab assignments](https://ospp.cs.washington.edu/)] - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau ([UW Computer Sciences][8])
+
+  * Summary: A clear, concept-focused OS textbook that emphasizes the “big ideas” behind processes, memory, and storage.
+  * What you’ll learn: You’ll learn to reason about concurrency, scheduling, virtual memory, and file systems with enough depth to build and debug systems.
+
+* [The Linux Programming Interface (2010)](https://www.man7.org/tlpi/) - Michael Kerrisk ([Man7][9])
+
+  * Summary: An exhaustive reference and tutorial for Linux/POSIX system calls and low-level programming interfaces.
+  * What you’ll learn: You’ll learn how to write production-grade Linux systems code involving processes, threads, IPC, signals, and files.
+
+##### System Design<a name="books-system-design" />
+
+* [Designing Data-Intensive Applications (2017)](https://martin.kleppmann.com/2017/03/27/designing-data-intensive-applications.html) [[about](https://dataintensive.net/)] [[errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920032175)] - Martin Kleppmann ([Martin Kleppmann's Website][10])
+
+  * Summary: A field guide to modern data systems, explaining the trade-offs behind databases, streaming, batch, and distributed architectures.
+  * What you’ll learn: You’ll learn how to choose and justify designs for reliability, scalability, consistency, and operability in real systems.
+
+* [Game Engine Architecture (2026,4th)](https://www.amazon.com/Game-Engine-Architecture-Two-Set/dp/104116260X) - Jason Gregory
+
+  * Summary: A comprehensive, industry-grounded reference that explains the theory and practice of AAA game engine software development and how core engine subsystems fit together.
+  * What you’ll learn: You can expect a practical architectural blueprint—covering tools, concurrency, the game loop, resources/filesystems, rendering/lighting, animation, physics, and audio—plus the trade-offs required to build maintainable, high-performance engines.
+
+
 #### Programming<a name="programming" />
-##### C/C++<a name="c-cpp" />
+##### C/C++<a name="books-c-cpp" />
 
 * [The C++ Programming Language (2013,4th)](https://www.stroustrup.com/4th.html) - Bjarne Stroustrup
 
@@ -104,7 +291,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/the-books-
   * Summary: A practical guide to writing correct multithreaded C++ using the standard concurrency primitives and patterns.
   * What you’ll learn: You’ll learn how to reason about data races, locking strategies, atomics, and robust concurrent design.
 
-##### Python<a name="python" />
+##### Python<a name="books-python" />
 
 * [Learning Python (2013,5th)](https://learning-python.com/about-lp.html) - Mark Lutz ([Learning Python][5])
 
@@ -121,7 +308,7 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/the-books-
   * Summary: A deep dive into writing Pythonic code, emphasizing the data model, protocols, and advanced language features.
   * What you’ll learn: You’ll learn how to write elegant, performant Python by leveraging iterators, context managers, metaprogramming, and concurrency tools.
 
-##### CUDA<a name="cuda" />
+##### CUDA<a name="books-cuda" />
 
 * [Programming Massively Parallel Processors: A Hands-on Approach (2022,4th)](https://www.amazon.com) - David B. Kirk and Wen-mei W. Hwu ([GitHub][1])
 
@@ -138,186 +325,6 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/the-books-
   * Summary: An engineering-oriented guide that bridges CUDA programming with performance thinking and parallel design.
   * What you’ll learn: You’ll learn how to translate workloads into parallel implementations and reason about speedups, occupancy, and memory bandwidth.
 
-#### Computer System<a name="computer-system" />
-
-##### Operating System<a name="operating-system" />
-
-* [Computer Systems: A Programmer's Perspective (2015,3rd)](https://csapp.cs.cmu.edu/) [[videos](https://www.youtube.com/playlist?list=PLbY-cFJNzq7z_tQGq-rxtq_n2QQDf5vnM)] [[lecture slides](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)] - Randal E. Bryant and David R. O'Hallaron ([Computer Systems Perspective][6])
-
-  * Summary: A systems classic that connects C code to the underlying machine—compilers, memory, linking, OS, and performance.
-  * What you’ll learn: You’ll learn how software actually executes on real hardware/OS stacks, enabling better debugging, optimization, and systems design.
-
-* [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond (2019,3rd)](https://www.mheducation.com/highered/product/introduction-computing-systems-bits-gates-c-c-beyond-patt-patel/M9781260150537.html) - Yale N. Patt and Sanjay J. Patel ([mheducation.com][7])
-
-  * Summary: A bottom-up introduction that builds intuition from digital logic to machine code to higher-level programming.
-  * What you’ll learn: You’ll learn how instruction sets, datapaths, and memory hierarchies shape program behavior and performance.
-
-* [Operating Systems: Three Easy Pieces (2018)](https://pages.cs.wisc.edu/~remzi/OSTEP/) [[errata](https://pages.cs.wisc.edu/~remzi/OSTEP/combined.html)] [[lab assignments](https://ospp.cs.washington.edu/)] - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau ([UW Computer Sciences][8])
-
-  * Summary: A clear, concept-focused OS textbook that emphasizes the “big ideas” behind processes, memory, and storage.
-  * What you’ll learn: You’ll learn to reason about concurrency, scheduling, virtual memory, and file systems with enough depth to build and debug systems.
-
-* [The Linux Programming Interface (2010)](https://www.man7.org/tlpi/) - Michael Kerrisk ([Man7][9])
-
-  * Summary: An exhaustive reference and tutorial for Linux/POSIX system calls and low-level programming interfaces.
-  * What you’ll learn: You’ll learn how to write production-grade Linux systems code involving processes, threads, IPC, signals, and files.
-
-##### System Design<a name="system-design" />
-
-* [Designing Data-Intensive Applications (2017)](https://martin.kleppmann.com/2017/03/27/designing-data-intensive-applications.html) [[about](https://dataintensive.net/)] [[errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920032175)] - Martin Kleppmann ([Martin Kleppmann's Website][10])
-
-  * Summary: A field guide to modern data systems, explaining the trade-offs behind databases, streaming, batch, and distributed architectures.
-  * What you’ll learn: You’ll learn how to choose and justify designs for reliability, scalability, consistency, and operability in real systems.
-
-#### Mathematical Foundations<a name="mathematical-foundations" />
-
-##### Linear Algebra<a name="linear-algebra" />
-
-* [Linear Algebra and Its Applications (2016,5th)](https://www.pearson.com/us/higher-education/program/Lay-Linear-Algebra-and-Its-Applications-plus-New-My-Lab-Math-with-Pearson-e-Text-Access-Card-Package-5th-Edition/PGM2547338.html?tab=resources) - David C. Lay, Steven R. Lay, Judi J. McDonald ([Pearson][11])
-
-  * Summary: A standard applied linear algebra text emphasizing computation and applications alongside theory.
-  * What you’ll learn: You’ll learn core tools—vector spaces, matrix factorizations, eigenvalues—that power optimization, statistics, and ML.
-
-* [Introduction to Linear Algebra (2016,5th)](https://math.mit.edu/~gs/linearalgebra/) - Gilbert Strang ([MIT Mathematics][12])
-
-  * Summary: An intuitive, application-driven approach to linear algebra from a leading educator in the field.
-  * What you’ll learn: You’ll build strong intuition for column space, rank, orthogonality, and eigen-ideas that show up constantly in ML.
-
-* [Linear Algebra Done Right (2015,3rd)](https://linear.axler.net/) - Sheldon Axler ([Linear Algebra Done Right][13])
-
-  * Summary: A proof-oriented, concept-first linear algebra treatment emphasizing linear maps and vector spaces.
-  * What you’ll learn: You’ll gain mathematical maturity and cleaner abstraction skills that help with advanced ML theory and research papers.
-
-* [Linear Algebra and Geometry (2012)](https://link.springer.com/book/10.1007/978-3-642-30994-6) - Klaus Liesen and Volker Mehrmann ([Springer Nature Link][14])
-
-  * Summary: A rigorous bridge between linear algebra and geometric reasoning, often framed through transformations and structure.
-  * What you’ll learn: You’ll learn to connect algebraic computations with geometric interpretation, sharpening intuition for high-dimensional methods.
-
-##### Statistics<a name="statistics" />
-
-* [Probability Theory: The Logic of Science (2002)](https://www.cambridge.org/core/books/probability-theory/9CA08E224FF30123304E6D8935CF1A99) - E. T. Jaynes and G. Larry Bretthorst ([Cambridge University Press & Assessment][15])
-
-  * Summary: A foundational Bayesian view of probability as extended logic, with deep conceptual and practical implications.
-  * What you’ll learn: You’ll learn principled probabilistic reasoning and Bayesian inference that improves how you model uncertainty in ML and decision-making.
-
-* [Probability and Statistics (2010,4th)](https://www.amazon.com) - Morris H. DeGroot and Mark J. Schervish ([GitHub][1])
-
-  * Summary: A classic textbook covering probability foundations and core statistical inference topics.
-  * What you’ll learn: You’ll learn distributions, expectation, limit theorems, estimation, and testing—core prerequisites for serious ML work.
-
-* [Statistical Inference (2002,2nd)](https://www.amazon.com) - George Casella and Roger L. Berger ([GitHub][1])
-
-  * Summary: A rigorous, theory-oriented text on estimation and hypothesis testing with strong mathematical grounding.
-  * What you’ll learn: You’ll learn to reason formally about estimators, likelihood, asymptotics, and optimality—useful for research and model evaluation.
-
-##### Algorithms<a name="algorithms" />
-
-* [Algorithms (2011,4th)](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne ([Algorithms 4th Edition][16])
-
-  * Summary: A practical algorithms and data structures text with strong emphasis on implementation and performance.
-  * What you’ll learn: You’ll learn algorithmic patterns and complexity thinking that directly improves coding interviews and real software design.
-
-* [The Algorithm Design Manual (2020,3rd)](https://www.algorist.com/) [[errata](https://www3.cs.stonybrook.edu/~skiena/algorist/book/errata-adm3)] - Steven S. Skiena ([Algorist][17])
-
-  * Summary: A “toolbox” approach that teaches how to select and adapt algorithms for practical problems.
-  * What you’ll learn: You’ll learn problem classification, key algorithmic techniques, and how to navigate trade-offs quickly and correctly.
-
-##### Machine Learning<a name="machine-learning" />
-
-##### Machine Learning
-
-* [Pattern Recognition and Machine Learning (2006)](https://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) [[python](https://github.com/ctgk/PRML)] [[matlab](https://github.com/PRML/PRMLT)] [[solutions](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)] [[solution manual](https://github.com/zhengqigao/PRML-Solution-Manual/blob/master/PRML_Solution_Manual.pdf)] - Christopher Bishop ([Microsoft Research][18])
-
-  * Summary: A landmark text that frames ML as probabilistic modeling, blending theory, algorithms, and graphical perspectives.
-  * What you’ll learn: You’ll learn core probabilistic ML tools (e.g., EM, variational methods, kernels, graphical models) that underpin many modern systems.
-
-* [Probabilistic Machine Learning: An Introduction (2022)](https://www.cs.ubc.ca/~murphyk/MLbook/) [[matlab](https://github.com/probml/pmtk3)] [[book](https://probml.github.io/pml-book/book1.html)] [[python](https://github.com/probml/pyprobml)] - Kevin P. Murphy ([Computer Science at UBC][19])
-
-  * Summary: A modern, broad ML text that unifies classical and contemporary methods through probabilistic modeling.
-  * What you’ll learn: You’ll learn how to design models under uncertainty, connect Bayesian and frequentist views, and implement methods with strong engineering instincts.
-
-* [Probabilistic Machine Learning: Advanced Topics (2023)](https://probml.github.io/pml-book/book2.html) [[python](https://github.com/probml/pyprobml)] - Kevin P. Murphy ([Probabilistic Machine Learning][20])
-
-  * Summary: A continuation that pushes into deeper probabilistic and advanced ML topics beyond the introductory volume.
-  * What you’ll learn: You’ll learn more advanced modeling and inference techniques that matter for research-grade work and complex real-world systems.
-
-* [An Introduction to Statistical Learning (2013)](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani ([Wiley Online Library][21])
-
-  * Summary: An accessible, applied introduction to statistical learning with a strong emphasis on intuition and practice.
-  * What you’ll learn: You’ll learn how and when to use key models (regression, trees, SVMs, etc.), and how to validate them properly in applied settings.
-
-* [The Elements of Statistical Learning (2009,2nd)](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani and Jerome Friedman ([Stanford University][22])
-
-  * Summary: A dense, theory-rich reference that digs into the mathematics behind statistical learning methods.
-  * What you’ll learn: You’ll gain deeper understanding of why models work, including bias–variance trade-offs and high-dimensional behavior.
-
-* [Machine Learning: A Probabilistic Perspective (2012)](https://www.amazon.com) - Kevin P. Murphy ([GitHub][1])
-
-  * Summary: A comprehensive ML text that treats many algorithms as instances of probabilistic modeling and inference.
-  * What you’ll learn: You’ll learn a unified framework for ML that improves your ability to derive, debug, and extend models.
-
-* [Machine Learning (2023)](https://charuaggarwal.net/) - Charu C. Aggarwal ([Charu Aggarwal][23])
-
-  * Summary: A broad, modern survey that covers a wide span of ML topics with a practical orientation.
-  * What you’ll learn: You’ll get a structured map of the ML landscape and understand where different methods fit and when they are appropriate.
-
-##### Deep Learning<a name="deep-learning" />
-
-* [Dive into Deep Learning (2020)](https://d2l.ai/) [[code](https://github.com/d2l-ai/d2l-en)] - Aston Zhang, Zachary Lipton, Mu Li, Alex Smola ([GitHub][1])
-
-  * Summary: An interactive deep learning textbook that pairs explanations with runnable code and experiments.
-  * What you’ll learn: You’ll learn to implement core deep learning models end-to-end and develop strong “research engineer” instincts through hands-on work.
-
-* [Grokking Deep Learning (2019)](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask ([Manning Publications][24])
-
-  * Summary: A friendly, from-scratch path to understanding neural networks through simple, buildable components.
-  * What you’ll learn: You’ll learn to derive and implement backprop, optimization, and core architectures without relying on black-box frameworks.
-
-* [Deep Learning with Python (2017)](https://www.manning.com/books/deep-learning-with-python) [[code](https://github.com/fchollet/deep-learning-with-python-notebooks)] - François Chollet ([Manning Publications][25])
-
-  * Summary: A practical deep learning guide centered on Keras workflows and real problem-solving patterns.
-  * What you’ll learn: You’ll learn to prototype, train, and debug neural nets efficiently, plus develop strong intuition for model/regularization choices.
-
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2019,2nd)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) [[code](https://github.com/ageron/handson-ml2)] - Aurélien Géron ([O'Reilly Media][26])
-
-  * Summary: A practitioner’s playbook for building ML and DL systems in Python, from classic models to neural nets.
-  * What you’ll learn: You’ll learn robust end-to-end workflows—data prep, training, evaluation, and deployment-oriented thinking—using widely adopted tooling.
-
-* [Neural Networks and Deep Learning: A Textbook (2018)](https://www.charuaggarwal.net/neural.htm) - Charu C. Aggarwal ([Charu Aggarwal][27])
-
-  * Summary: A structured textbook covering deep learning fundamentals and key architectures in a cohesive narrative.
-  * What you’ll learn: You’ll learn core theory and practice across MLPs, CNNs, RNNs, optimization, and regularization with a textbook-level rigor.
-
-* [Deep Learning (2016)](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio and Aaron Courville ([Deep Learning Book][28])
-
-  * Summary: The canonical reference for deep learning theory, spanning optimization, representation learning, and key model families.
-  * What you’ll learn: You’ll gain a principled foundation that helps you read papers, reason about training dynamics, and understand model failure modes.
-
-* [Generative Deep Learning (2019)](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) - David Foster ([O'Reilly Media][29])
-
-  * Summary: A hands-on guide to generative modeling approaches such as VAEs, GANs, and related deep generative methods.
-  * What you’ll learn: You’ll learn how to build generative models in practice and what evaluation and stability issues to anticipate.
-
-##### Large Language Models (LLM)<a name="large-language-models" />
-
-* [Build a Large Language Model (From Scratch) (2024)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - Sebastian Raschka ([Manning Publications][30])
-
-  * Summary: A practical build-it-yourself path through the core components behind modern LLMs, emphasizing implementation.
-  * What you’ll learn: You’ll learn how Transformers are assembled and trained, and what engineering constraints matter for inference, evaluation, and iteration.
-
-##### Computer Vision
-
-* [Multiple View Geometry in Computer Vision (2004,2nd)](https://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman ([Oxford Robotics][31])
-
-  * Summary: A foundational text on the geometry of cameras and 3D reconstruction from multiple images.
-  * What you’ll learn: You’ll learn the math behind epipolar geometry, camera models, and structure-from-motion—useful for robotics and vision research.
-
-##### Probabilistic Graphic Model
-
-* [Probabilistic Graphical Models: Principles and Techniques (2009)](https://pgm.stanford.edu/) - Daphne Koller and Nir Friedman ([Amazon][32])
-
-  * Summary: An authoritative reference on representing, learning, and performing inference in probabilistic graphical models.
-  * What you’ll learn: You’ll learn how to model structured uncertainty and apply exact/approximate inference methods that generalize across many domains.
 
 ## Courses<a name="courses" />
 #### Large Language Models (LLM)<a name="courses-large-language-models" />
@@ -330,8 +337,9 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/the-books-
 * [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/) - Tatsunori Hashimoto/Percy Liang (Stanford University) ([GitHub][1])
 
   * Summary: A systems-and-implementation-focused course that demystifies language modeling by building key pieces end-to-end.
-#### Machine Learning and Statistical Learning<a name="courses-machine-learning-statistical-learning" />
+  * What you’ll learn: You can expect to gain hands-on skill implementing core LM components (tokenization, architecture, optimization), plus systems-level competence around GPU efficiency, profiling, distributed training, scaling laws, and data cleaning/deduplication.
 
+#### Machine Learning and Statistical Learning<a name="courses-machine-learning-statistical-learning" />
 #### Machine Learning and Statistical Learning
 
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) - Andrew Ng (Stanford University) ([GitHub][1])
