@@ -212,10 +212,11 @@ Please feel free to send me [pull requests](https://github.com/hao-lh/the-books-
 
 ##### System Design<a name="books-system-design" />
 
-* [Designing Data-Intensive Applications (2017)](https://martin.kleppmann.com/2017/03/27/designing-data-intensive-applications.html) [[about](https://dataintensive.net/)] [[errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920032175)] - Martin Kleppmann ([Martin Kleppmann's Website][10])
+* [Designing Data-Intensive Applications (2026,2nd)](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/) - [Martin Kleppmann](https://martin.kleppmann.com/2017/03/27/designing-data-intensive-applications.html)
 
-  * Summary: A field guide to modern data systems, explaining the trade-offs behind databases, streaming, batch, and distributed architectures.
-  * What you’ll learn: You’ll learn how to choose and justify designs for reliability, scalability, consistency, and operability in real systems.
+  * Summary: This comprehensive guide explores the principles, algorithms, and trade-offs involved in building reliable, scalable, and maintainable distributed data systems, fully updated for modern cloud-native architectures.
+  * What you’ll learn: You can expect a deep dive into the internals of databases, data replication, and stream processing that equips you with the foundational knowledge to navigate complex architectural decisions.
+  * *Comparison with 1st edition*: This edition shifts focus heavily toward cloud-native environments, removes outdated technologies like Hadoop MapReduce, adopts current industry terminology (e.g., favoring "sharding" over "partitioning"), and features thoroughly updated real-world examples and reference lists, all while preserving the timeless core principles of the original text.
 
 * [Game Engine Architecture (2026,4th)](https://www.amazon.com/Game-Engine-Architecture-Two-Set/dp/104116260X) - Jason Gregory
 
